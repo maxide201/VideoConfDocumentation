@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000000023.html"],['37',"VideoChatConferencesBackEnd.Services Namespace","topic_000000000000001A.html"],['38',"SocketIoWebService Class","topic_000000000000001B.html"],['39',"Properties","topic_000000000000001B_props--.html"],['40',"Url Property","topic_000000000000001C.html"]];
